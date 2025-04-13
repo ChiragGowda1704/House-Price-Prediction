@@ -147,6 +147,4 @@ cd House
 ---
 
 
-## Acknowledgments
 
-This project was developed as a final year project for a school friend of mine.
